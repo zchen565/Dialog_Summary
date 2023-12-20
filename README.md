@@ -1,5 +1,10 @@
 # Dialog_Summary
 
+## copy info
+bart.ipynb is not used in my project
+
+data/dataset.py is part of the code from  https://github.com/SeungoneKim/SICK_Summarization 
+(I must use this to extract my train_sick.json and test_sick.json) 
 
 ## file description
 `.ipynb` used for training / fine-tuning 
